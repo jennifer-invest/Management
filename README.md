@@ -1,9 +1,5 @@
 # README
 
-## Highlights of WikiFinancepedia
-
-[WikiFinancepedia](https://wikifinancepedia.com/) is a comprehensive online resource dedicated to providing detailed information on a wide range of financial topics. The website is designed to cater to both beginners and experts in finance, offering insights into various aspects of the financial world, including investment, personal finance, corporate finance, and financial planning.
-
 # FinancePlusInsurance.com
 
 Welcome to [FinancePlusInsurance](https://financeplusinsurance.com/)! This website is your go-to resource for insightful and up-to-date information on finance, investment, insurance, and related fields.
